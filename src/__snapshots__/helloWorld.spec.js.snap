@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`third test with @shared alias 1`] = `
+<div
+  className="background"
+>
+  hello, world!
+</div>
+`;
